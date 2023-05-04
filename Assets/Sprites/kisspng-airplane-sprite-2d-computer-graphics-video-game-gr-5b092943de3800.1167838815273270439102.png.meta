@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 2e75806f8a0f4124bb123401e6ac4ad9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 834
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f9db1bf1c0f5488c1a54a1062947b
+      internalID: -1048719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 847
+        width: 171
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c699529c51194d993decd86b9d83f
+      internalID: -664781053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 865
+        width: 176
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6bc70fd5e982b40939831346fd9484
+      internalID: -1160693038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 847
+        width: 171
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0421536145bd124997c553c607815b0
+      internalID: -760235493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_4
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 834
+        width: 142
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927de36f2d8af0c4881138bc850e56e9
+      internalID: 389007535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 640
+        width: 143
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6874908b9f21984991071fa00728851
+      internalID: -218375184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 649
+        width: 172
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48107fb987df3e446b5a02220f3cea17
+      internalID: -248883182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 655
+        width: 178
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba4246554a3764fb9265c0124eb08d
+      internalID: 1939110779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 649
+        width: 172
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905e02bb58dfc14a9781ff59a714f02
+      internalID: 409699536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_9
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 640
+        width: 143
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eceeed548f2ea543a0dbb75b3b85c6d
+      internalID: 2097896136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 445
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48738398201754d8cc3c6f2025dbfd
+      internalID: 682404830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 445
+        width: 173
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f16623c7873be4db089e1297be89bb
+      internalID: 241043019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 446
+        width: 178
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689af0df2db3f624188ba06321a2f85c
+      internalID: -581314661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 445
+        width: 173
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a8e2f792b1494c8b073a10b002c84
+      internalID: 1928861556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 445
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3784444240dc341a4f986e6a83fb3f
+      internalID: 2128008232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 246
+        width: 132
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624075983f7045c41a10555249b6af6e
+      internalID: -1125653524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 245
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e947d06f07015dd4e87d82535f8f30f9
+      internalID: -1173372603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 241
+        width: 178
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32eb5a2974bb8428b23ccf69f85893
+      internalID: -1635767708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_18
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 246
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1453e4ec3e09e384f885eeec72d9404f
+      internalID: 1078066594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 246
+        width: 132
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cac2c7f547e0e458efcab77121a329
+      internalID: -486451834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566de9f639420b43a3d4084d1d69972
+      internalID: 1548385770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 47
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126366fdd1093fd48818bde0490c0bbc
+      internalID: 1927609868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 42
+        width: 180
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e3e013b5da6846897679d0f5f0a12
+      internalID: -477353855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_23
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 47
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7a59344ab7b54fa89278d9ebe0f14
+      internalID: -1818416737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_24
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 47
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ad2d01949d7a49836871c0ac992aa
+      internalID: 551878799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_23: -1818416737
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_4: 389007535
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_20: 1548385770
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_10: 682404830
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_17: -1635767708
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_12: -581314661
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_19: -486451834
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_0: -1048719423
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_1: -664781053
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_18: 1078066594
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_11: 241043019
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_3: -760235493
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_13: 1928861556
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_8: 409699536
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_5: -218375184
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_16: -1173372603
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_22: -477353855
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_14: 2128008232
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_9: 2097896136
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_24: 551878799
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_15: -1125653524
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_2: -1160693038
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_6: -248883182
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_7: 1939110779
+      kisspng-airplane-sprite-2d-computer-graphics-video-game-gr-5b092943de3800.1167838815273270439102_21: 1927609868
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
